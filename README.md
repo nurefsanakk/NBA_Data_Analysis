@@ -1,4 +1,4 @@
-# NBA DATA ANALYSİS
+# NBA DATA ANALYSIS
 Bu proje Sisterslab tarafından düzenlenen Toplum Gönüllüleri Vakfı tarafından tarafından fonlanan Women in Tech Academy Bitirme Projesidir. Proje kapsamında NBA veri setinin analizi yapılmıştır. Bu analizler yapılırken Pandas Kütüphanesi kullanılmıştır.
 
 ### Yapılan Veri Analizleri
